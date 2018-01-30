@@ -1,4 +1,2 @@
-node_modules/
-
-#Ignore Js File
-*.js
+#Ignore Nodemodules Folder
+Angulartodo/node_modules/
